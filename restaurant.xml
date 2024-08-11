@@ -32,7 +32,7 @@
     <restaurant id="R3">
         <restaurant-id>3</restaurant-id>
         <restaurant-name>KFC</restaurant-name>
-        <hours>Mon-Sun: 10am-10pm</hours>
+        <hours>Mon-Su: 10am-10pm</hours>
         <menu>
             <dish id="D3">
                 <dish-name>Original Recipe Chicken</dish-name>
@@ -44,7 +44,7 @@
     </restaurant>
     <restaurant id="R4">
         <restaurant-id>4</restaurant-id>
-        <restaurant-name>Subway</restaurant-name>
+        <restauran-name>Subway</restauran-name>
         <hours>Mon-Sun: 8am-10pm</hours>
         <menu>
             <dish id="D4">
@@ -63,7 +63,7 @@
             <dish id="D5">
                 <dish-name>Crunchwrap Supreme</dish-name>
                 <description>Beef, lettuce, tomatoes, sour cream, and shredded cheese wrapped in a tortilla with a crunchy taco shell.</description>
-                <price>5.99</price>
+                <price>Five dollars</price>
             </dish>
         </menu>
         <reviews>This restaurant is great! The food is delicious and affordable.</reviews>
